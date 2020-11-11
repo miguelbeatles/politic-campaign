@@ -1,5 +1,5 @@
 /*==============================================================*/
-// KyleHope - Political HTML5 Template Map JS
+// Lorena Cuéllar - Political HTML5 Template Map JS
 /*==============================================================*/
 (function($) {
     "use strict"; // Start of use strict
