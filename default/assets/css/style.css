@@ -853,7 +853,7 @@ a.meanmenu-reveal {
 		margin-top: 0;
         position: absolute;
         left: 15px;
-        top: 20px;
+        top: 10px;
         max-width: 120px;
 	}
     .mean-container a.meanmenu-reveal {
@@ -958,7 +958,7 @@ Main Banner Area CSS
 */
 .main-banner {
 	height: 650px;
-	background: #86889e/*#464751*/;
+	background: #464751;
 	position: relative;
 }
 .main-banner::before {
@@ -990,8 +990,8 @@ Main Banner Area CSS
 	margin-right: 8px;
 }
 .main-banner-img {
-	position: absolute;
-	top: 32px;
+	position: relative;
+	margin-top: 115px;
 	right: 0;
 }
 
@@ -3185,4 +3185,9 @@ Go Top CSS
 .go-top:hover {
 	color: #fff;
 	background:  #a01f63;
+}
+
+/* Chat Style */
+#kommunicate-widget-iframe {
+	right: 60px;;
 }
