@@ -33,7 +33,7 @@ This files table contents are outlined below>>>
 *** - Blog Area CSS
 *** - Blog Details Area CSS
 *** - Newsletter Area CSS
-*** - Become A Volunteer CSS
+*** - FORMA PARTE DEL EQUIPO CSS
 *** - Page Title Area CSS
 *** - Pagination Area CSS
 *** - Sidebar Area CSS
@@ -2629,7 +2629,7 @@ Newsletter Area CSS
 
 /*
 ================================
-Become A Volunteer CSS
+FORMA PARTE DEL EQUIPO CSS
 ================================
 */
 .become-a-volunteer {
@@ -2675,7 +2675,7 @@ Page Title Area CSS
 ================================
 */
 .page-title {
-    background-image: url(../../assets/img/page-title-bg.jpg);
+    /* background-image: url(../../assets/img/page-title-bg.jpg); */
     position: relative;
     background-position: center center;
     background-size: cover;

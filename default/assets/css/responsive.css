@@ -69,6 +69,7 @@
 		height: 100%;
 		padding-top: 40px;
 		padding-bottom: 0;
+		background-color: #a01f63;
 	}
 	.main-banner::before {
 		display: none;
@@ -90,7 +91,7 @@
 		top: 0;
 		text-align: center;
         max-width: 300px;
-        margin: auto;
+		margin: auto;
 	}
 	.about-content {
 		padding: 30px 20px;
@@ -689,6 +690,8 @@
 		position: relative;
 		top: 0;
 		text-align: center;
+		margin-top: 0;
+		}
 	}
 	.main-banner-img img {
 		height: 535px;
